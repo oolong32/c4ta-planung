@@ -35,7 +35,7 @@
     - Orientierung Koordinatensystem
     - Funktionsnamen
 
-## JavaScript
+## JavaScript
 
 - Variablen
 - Daten-Typen
