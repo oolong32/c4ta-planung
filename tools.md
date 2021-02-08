@@ -1,12 +1,12 @@
-# Tools
+# Tools
 
 ## Texteditor
 
 [Visual Studio Code](https://code.visualstudio.com/) oder [Atom](https://atom.io/)?
 
-Oder etwas anderes?
+Oder etwas anderes? [Open Source Binaries of VS Code](https://vscodium.com/)
 
-## Terminal
+## Terminal
 
 OS X Terminal, Bash
 
@@ -18,6 +18,7 @@ Die Knacknuss: Womit sollen Teilnehmer\*innen ihre Projekte veröffentlichen?
 
 - [Glitch](https://glitch.com/)
 - [Codepen](https://codepen.io/)
+- Github Pages & Jekyll
 - …
 
 ## Kommunikation
@@ -28,7 +29,7 @@ Die Knacknuss: Womit sollen Teilnehmer\*innen ihre Projekte veröffentlichen?
 
 Was die ZHdK zur Verfügung stellt ist sinnvoll als Gefäss/Plattform, wo die Teilnehmer\*innen Kursinhalte suchen und finden.
 
-## Pen-Plotter
+## Pen-Plotter
 
 Wir haben drei (?) Stück bestellt.
 
