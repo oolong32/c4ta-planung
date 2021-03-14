@@ -64,7 +64,7 @@
 
 ## Gastreferate
 
-- Creative Coding & 3D/CAD
+- Creative Coding & 3D/CAD (three.js?)
 - Kunstschaffende/Designer
     - lia
     - Bitniks

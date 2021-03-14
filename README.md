@@ -1,4 +1,4 @@
-# Coding for the Arts Planung
+# Coding for the Arts, Planung
 
 **Dies ist eine Baustelle.** 🏗
 
