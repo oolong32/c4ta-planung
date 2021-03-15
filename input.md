@@ -1,12 +1,14 @@
 # Input
 
-*Josef hat hier den Mail-Input grob zusammengestellt (teils kosmetisch editiert, pardon). Es gibt nur ganz wenige Anmerkungen, das meiste ist gutes Futter für kommende Besprechungen.*
+*Josef hat hier den Mail-Input grob zusammengestellt (teils kosmetisch editiert, zur besseren Lesbarkeit).*
 
 ## Christian
 
 ### Struktur
 
-Ich finde die Struktur grundsätzlich gut. Schön wäre auch ein Endprodukt, dass die Teilnehmer am Schluss zeigen könnten. (*Anm. J.: Oder eine Sammlung?*)
+Ich finde die Struktur grundsätzlich gut. Schön wäre auch ein Endprodukt, dass die Teilnehmer am Schluss zeigen könnten.
+
+*Anm. J.: Oder eine Sammlung? Wir haben gerade sehr gute Erfahrungen mit einer individuellen ‘best of’ Präsentation gemacht.*
 
 ### Themen
 
@@ -26,7 +28,7 @@ Es gibt aber eine Präsenzpflicht von 75% für Teilnehmer*innen. Sind wird da fr
 
 Ich finde eine **Einordnung in den historischen Kontext und die techn. Entwicklung** schon wichtig und interessant, ebenso wie das **Besprechen konzeptioneller Arbeiten**. Vielleicht könnte man das auch im Rahmen von Kurzpräsentationen der TN machen. Ein Thema, das ich zum Beispiel interessant finde, ich das Generieren von Zufallswerten in der Mathematik, *random* gegenüber *perlin noise* etc. Das würde ich gern in meinem Modul aufgreifen, lässt sich ja auch praktisch veranschaulichen.
 
-### Themen
+### Themen
 
 - «maker»-Workshops, z.B. mit Arduino resp. Raspberry Pi
 
@@ -78,9 +80,9 @@ Zusätzlich sollten alle Projekten auf Github detailliert erklärt werden.
 
 `[…]` gemeinsames Programmieren / Pair-Programming fand ich immer sehr hilf- und lehrreich, insbesondere im Fernunterricht. Durch diesen Austausch kann man viel lernen punkto Code schreiben, lesen und verbessern.
 
-### Themen
+### Themen
 
-auf die Schnelle denke ich, dass ich wahrscheinlich bei den **theoretischen Grundlagen/Konzepte** am meisten beitragen könnte (habe das nun zur Genüge durchgekaut und ausgespuckt). Ob jetzt JavaScript oder Python: alles von *Datentypen*, *Loops* bis *Rekursionsfunktionen* usw.
+Auf die Schnelle denke ich, dass ich wahrscheinlich bei den **theoretischen Grundlagen/Konzepte** am meisten beitragen könnte (habe das nun zur Genüge durchgekaut und ausgespuckt). Ob jetzt JavaScript oder Python: alles von *Datentypen*, *Loops* bis *Rekursionsfunktionen* usw.
 
 Gewisse Dinge wie ml5.js kannte ich noch nicht, finde ich aber sehr spannend und habe bereits angefangen damit zu pröbeln. Bei solchen Dingen bräuchte ich aber etwas Einarbeitungszeit.
 
@@ -106,6 +108,7 @@ Zu diskutieren:
         - Arduino, Raspberry Pi etc.
 - Zu welchen Themen gibt es ein Projekt mit mentoriertem Präsenztag?
 - Welche Themen können «nebenher» laufen? (z.B. Git)
+- Welche Tools/Grundlagen sind für welche Projekte nötig? 
 - Wie viele solcher Projekte/Tage gibt es? (Etwas zwischen 10 und 20)
 - Betreuung: Weniger Tage zu zweit oder mehr Tage alleine?
 - Wie viel Video-Unterricht braucht es vor einem Projekt
