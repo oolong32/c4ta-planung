@@ -10,7 +10,7 @@ Unterricht findet nur per Video statt.
 - Jeden Montag ist Coding-Day. (*weniger wäre ok, Frequenz muss mit ECTS aufgehen*)
     - hohe Frequenz scheint aufgrund der relativ kurzen Dauer notwendig.
     - Es wird nur zwei längere Pausen geben: Allerheiligen und Weihnachten.
-    - Allerheilige ist in Zürich wahrsch. eh nicht.
+    - Allerheiligen ist in Zürich wahrsch. eh nicht.
 - Die Teilnahme ist explizit optional.
     - Oder nicht? Scheint bei näherer Betrachtung redundant/sinnlos.
 - Es gibt aber eine Präsenzpflicht von 75% für Teilnehmer\*innen.
@@ -25,7 +25,7 @@ Unterricht findet nur per Video statt.
         1. Thema
         2. Übersicht Code
         3. Detail / Pain Point
-- Feedback durch Teilnehmer, idealerweise ebenfalls nach Template
+- Feedback durch Teilnehmer\*innen, idealerweise ebenfalls nach Template
 - Denkbar wäre auch ein Vortrag zu einem Thema. Z.B. könnte es sein, das jede\*r Teilnehmer\*in an einem der Tage etwas vorbereiten muss.
 - Gruppen bilden (2-3)
 - Gemeinsames Arbeiten
