@@ -27,7 +27,7 @@ Unterricht findet nur per Video statt.
         3. Detail / Pain Point
 - Feedback durch Teilnehmer\*innen, idealerweise ebenfalls nach Template
 - Denkbar wäre auch ein Vortrag zu einem Thema. Z.B. könnte es sein, das jede\*r Teilnehmer\*in an einem der Tage etwas vorbereiten muss.
-- Gruppen bilden (2-3)
+- Gruppen bilden (2–3)
 - Gemeinsames Arbeiten
     - gegenseitiger Review (*auch hierfür sollte es ein Template geben*)
     - Recherche (individuell)
