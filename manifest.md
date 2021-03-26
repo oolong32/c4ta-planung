@@ -8,9 +8,15 @@ Unterricht findet nur per Video statt.
 
 - Präsenztage dienen in erster Linie zum gegenseitigen Austausch.
 - Jeden Montag ist Coding-Day. (*weniger wäre ok, Frequenz muss mit ECTS aufgehen*)
+    - hohe Frequenz scheint aufgrund der relativ kurzen Dauer notwendig.
+    - Es wird nur zwei längere Pausen geben: Allerheiligen und Weihnachten.
+    - Allerheilige ist in Zürich wahrsch. eh nicht.
 - Die Teilnahme ist explizit optional.
+    - Oder nicht? Scheint bei näherer Betrachtung redundant/sinnlos.
 - Es gibt aber eine Präsenzpflicht von 75% für Teilnehmer\*innen.
+    - es gibt sowieso 80 % Anwesenheitspflicht
 - Teilnahme muss mindestens eine Woche vorher angekündigt werden. (?)
+    - Wahrscheinlich zu kompliziert.
 
 ### Ablauf
 
